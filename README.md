@@ -1,4 +1,4 @@
-# Desafio
+# OpenBanking Challenge
 
 Quer participar de um desafio muito legal utilizando uma plataforma super inovadora? 
 Acesse https://developers.original.com.br/, cadastre-se {utilize o mesmo e-mail da sua conta Github}, faça um fork 
